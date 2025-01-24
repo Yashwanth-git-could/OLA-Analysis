@@ -1,5 +1,3 @@
-# OLA-Analysis
-
 click the link to view the report
 - ["OLA Bookings in the month of july 2024"](https://app.powerbi.com/reportEmbed?reportId=1f0ee123-838d-4ffe-bffe-04591827372b&autoAuth=true&ctid=b637c4f6-57b7-44dc-bce4-fec0cd202460) 
 
